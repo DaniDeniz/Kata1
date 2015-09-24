@@ -23,6 +23,6 @@ public class Kata1 {
         System.out.println(p1.getFullName());
         System.out.println(p1.getBirth());
         System.out.println(p1.getAge());
-        System.out.println("Adios");
+        System.out.println("Adio");
     }
 }
